@@ -13,7 +13,7 @@ Este é um projeto simples com o intuito de consumir a API pública do [ViaCEP](
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/izazaias/seu-repositorio.git
 
    ```
 
